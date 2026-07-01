@@ -1,0 +1,9 @@
+[
+  {
+    "id": "123",
+    "name": "Jane Doe",
+    "contact_email": "jane@example.com",
+    "phone": "555-0199",
+    "tags": ["Python", "AWS"]
+  }
+]
